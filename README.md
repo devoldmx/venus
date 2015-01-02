@@ -1,4 +1,5 @@
 venus
 =====
 
-A project I'm gonna do just for fun.
+Java project that contains the basic monitors for sites relevant for my side-project agenda.
+
